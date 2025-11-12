@@ -1,0 +1,32 @@
+.navbar-brand, .navbar-brand:hover{
+    color: #2e7d32;
+    font-weight: bolder;
+}
+.active-link,.active-link:hover{
+    color: #2e7d32;
+    font-weight: bold;
+}
+nav{
+    background-color: #f1f8e9;
+}
+a{
+    text-decoration: none;
+}
+.hero-btn{
+    background-color: #2e7d32;
+}
+.hero-btn:hover{
+    background-color: #81c781;
+    color: black;
+}
+.btn-primary{
+    background-color: #2e7d32;
+    border: none;
+}
+li{
+    list-style-type: none;
+}
+.btn-primary:hover{
+    background-color: #81c781;
+    color: black;
+}
